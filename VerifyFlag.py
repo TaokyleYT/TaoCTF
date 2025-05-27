@@ -8,6 +8,7 @@ flags = {
     "4e7c54bd6b42de5e0e87d899815d6796788ea9b10a160f2a23de2d6cb61bf2f6": "cryptography/RSA is NOT fun",
     "d44298aef0f8830efe1768207639020af4d09ba365cb66504bead65b506224c3": "reverse engineering/TaoKen",
     "6ed852228d3d36d3e645c68c9f9baf390ab9551ac90c092c8a03283e7f039b53": "reverse engineering/Cal Gay 2.0",
+    "bea546705e575b3b7bf0b0f5deff7ed0f139c3e3b561dc0c183f3ef96c9647fa": "misc/git yo ass",
     # Special inputs in case you dum
     "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855": "Enter something please",
     "7b54b0bf29baeaecf3800faf291cbbeedc51d4032a85a67118f2dfe0be6b812c": "Tf bro this is a fake flag",
